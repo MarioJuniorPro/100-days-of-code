@@ -1,12 +1,22 @@
 # 100 Days Of Code - Log
 
-### Day 0: April 4, 2017
+### Day 0: April 5, 2017
 
 **Today's Progress**: I've made a javascript snippet for counting HTML element on the page. I also did a password strength component using vue.js.
 
 **Thoughts:** I tried to make a reduce pipeline but convert into object keys was more performatic.
 
-**Link to work:** [GIST Snippet](https://gist.github.com/MarioJuniorPro/2b136a304ab4b8e433985445b6aea403) [Password Strength](https://github.com/MarioJuniorPro/vue-everyday-component/blob/master/src/components/day2/PasswordStrength.vue)
+**Link to work:** [GIST Snippet](https://gist.github.com/MarioJuniorPro/2b136a304ab4b8e433985445b6aea403) / [Password Strength](https://github.com/MarioJuniorPro/vue-everyday-component/blob/master/src/components/day2/PasswordStrength.vue)
+
+
+### Day 1: April 6, 2017
+
+**Today's Progress**: Today I helped a vue community member to solve a little beginner issue. I refactored the password strength component and created a scrollTop new component.
+
+**Thoughts:** People copy internet code and don't spend any time trying to undersatand the code objective.
+
+**Link to work:** [GIST code](https://gist.github.com/ViniciusColares/dfb5028a3d311f00819ae0dccf6976c3) / 
+[ScrollTop](https://github.com/MarioJuniorPro/vue-everyday-component/blob/master/src/components/day3/ScrollTop.vue)
 
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
