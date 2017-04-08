@@ -18,6 +18,16 @@
 **Link to work:** [GIST code](https://gist.github.com/ViniciusColares/dfb5028a3d311f00819ae0dccf6976c3) / 
 [ScrollTop](https://github.com/MarioJuniorPro/vue-everyday-component/blob/master/src/components/day3/ScrollTop.vue)
 
+### Day 2: April 7, 2017
+
+**Today's Progress**: I made a github activty component
+
+**Thoughts:** OMG I spent so much time figuring out how pull the data ... the component become very ugly, I must do a refactor
+
+**Link to work:** [GithubActivity](https://github.com/MarioJuniorPro/vue-everyday-component/blob/master/src/components/day4/GithubActivity.vue)
+
+
+
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
