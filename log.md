@@ -26,6 +26,13 @@
 
 **Link to work:** [GithubActivity](https://github.com/MarioJuniorPro/vue-everyday-component/blob/master/src/components/day4/GithubActivity.vue)
 
+### Day 3: April 8, 2017
+
+**Today's Progress**: I've finished the github component and created a clock component.
+
+**Thoughts:** I used a clocl css template by Wes Bos, I need do one by my own, but need time to spend into it.
+
+**Link to work:** [Clock](https://github.com/MarioJuniorPro/vue-everyday-component/blob/master/src/components/day5/Clock.vue)
 
 
 <!--### Day 0: February 30, 2016 (Example 2)
