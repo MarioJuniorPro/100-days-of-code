@@ -34,6 +34,11 @@
 
 **Link to work:** [Clock](https://github.com/MarioJuniorPro/vue-everyday-component/blob/master/src/components/day5/Clock.vue)
 
+### Day 4: April 9, 2017
+
+**Today's Progress**: Only saw some vue lectures
+
+**Thoughts:** Sunday is a very difucult day to stop in front of the PC.
 
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
