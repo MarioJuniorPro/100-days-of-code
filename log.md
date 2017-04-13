@@ -48,6 +48,14 @@
 
 **Link to work:** [DataTable](https://github.com/MarioJuniorPro/vue-everyday-component/blob/master/src/components/day6/DataTable.vue)
 
+### Day 6: April 12, 2017
+
+**Today's Progress**: One more vue component. Now I start use the Ace editor for test and a future advanced component. Also start inmprove my chrome extension
+
+**Thoughts:** Ace editor is a hell to use a custom theme
+
+**Link to work:** [Editor](https://github.com/MarioJuniorPro/vue-everyday-component/blob/master/src/components/day7/Editor.vue)
+
 
 
 
