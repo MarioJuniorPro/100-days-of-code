@@ -56,6 +56,14 @@
 
 **Link to work:** [Editor](https://github.com/MarioJuniorPro/vue-everyday-component/blob/master/src/components/day7/Editor.vue)
 
+### Day 7: April 18, 2017
+
+**Today's Progress**: I'm currently working o my profile from free code camp chalenge.
+
+**Thoughts:** This holiday slow my progress
+
+**Link to work:** [Profile](https://codepen.io/MarioJuniorPro/pen/qmONKg)
+
 
 
 
