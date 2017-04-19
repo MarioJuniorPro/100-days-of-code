@@ -65,6 +65,16 @@
 **Link to work:** [Profile](https://codepen.io/MarioJuniorPro/pen/qmONKg)
 
 
+### Day 8: April 19, 2017
+
+**Today's Progress**: Updated my profile and made a Speed Reader Component using Vue
+
+**Thoughts:** Need create a roadmap for study js deeply
+
+**Link to work:** [Profile](https://codepen.io/MarioJuniorPro/pen/qmONKg) / 
+[Speed Reader](https://github.com/MarioJuniorPro/vue-everyday-component/blob/master/src/components/day8/SpeedReader.vue)
+
+
 
 
 
