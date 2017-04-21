@@ -74,7 +74,13 @@
 **Link to work:** [Profile](https://codepen.io/MarioJuniorPro/pen/qmONKg) / 
 [Speed Reader](https://github.com/MarioJuniorPro/vue-everyday-component/blob/master/src/components/day8/SpeedReader.vue)
 
+### Day 9: April 21, 2017
 
+**Today's Progress**: Study CSS3 animations and made a for with vue.
+
+**Thoughts:** I'll need improve de form to test all field types and add some animation for submit.
+
+**Link to work:** [Form](https://github.com/MarioJuniorPro/vue-everyday-component/blob/master/src/components/day9/UserForm.vue)
 
 
 
