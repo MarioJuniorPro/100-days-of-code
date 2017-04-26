@@ -83,6 +83,13 @@
 **Link to work:** [Form](https://github.com/MarioJuniorPro/vue-everyday-component/blob/master/src/components/day9/UserForm.vue)
 
 
+### Day 10: April 25, 2017
+
+**Today's Progress**: I started refactoring a cli tool that I made for automate some of my deploy tasks, but than I decide to create a visual tool using electrong and nuxt.
+
+**Thoughts:** Nuxt is very interisting and promissing.
+
+
 
 
 <!--### Day 0: February 30, 2016 (Example 2)
