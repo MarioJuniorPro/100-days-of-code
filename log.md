@@ -89,6 +89,13 @@
 
 **Thoughts:** Nuxt is very interisting and promissing.
 
+### Day 11: April 26, 2017
+
+**Today's Progress**: Help with some issues on facebook and played a little with electron.
+
+**Thoughts:** Need train more functional code
+
+**Link to work:** [Perfomance issue in the angular comunity](https://codepen.io/MarioJuniorPro/pen/WjRrMV?editors=0011)
 
 
 
