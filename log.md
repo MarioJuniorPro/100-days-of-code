@@ -97,6 +97,13 @@
 
 **Link to work:** [Perfomance issue in the angular comunity](https://codepen.io/MarioJuniorPro/pen/WjRrMV?editors=0011)
 
+### Day 12: April 27, 2017
+
+**Today's Progress**: I'm studing some FP with javascript and I create a repository for that study cases and did a refactoring on the content of a medium article that I read about FP. I studied some D3 and Nuxt as well.
+
+**Thoughts:** I'm not planning did very deep in FP, but want develop solid knowledge in FP using JS.
+
+**Link to work:** [The pen with the code recaftory](http://codepen.io/MarioJuniorPro/pen/BRpXyx?editors=0011)
 
 
 <!--### Day 0: February 30, 2016 (Example 2)
