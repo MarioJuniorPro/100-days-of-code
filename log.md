@@ -105,6 +105,13 @@
 
 **Link to work:** [The pen with the code recaftory](http://codepen.io/MarioJuniorPro/pen/BRpXyx?editors=0011)
 
+### Day 13: April 28, 2017
+
+**Today's Progress**: Started following a NodeJS API course with a lot of testing and is promissing.
+
+**Thoughts:** Very good material and many kinds of tests.
+
+
 
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
